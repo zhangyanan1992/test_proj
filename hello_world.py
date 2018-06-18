@@ -2,3 +2,4 @@
 # author:zyn
 
 print 'hello world'
+print 'test undo'
